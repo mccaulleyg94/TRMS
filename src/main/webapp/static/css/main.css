@@ -1,0 +1,27 @@
+body {
+    background-color: #7f7f7f;
+    color: #3c0c0c;
+    font-family: 'Times New Roman', Calibri, fantasy;
+    padding:2px;
+}
+
+navbar, main {
+    background-color: #eee7bb;
+    padding: 14px;
+}
+
+navbar {
+    margin: 0px 0px 20px 0px;
+    justify-content: space-around;
+    display:flex;
+}
+
+main {
+    border-radius: 14px;
+    margin: auto;
+    width: 70%;
+}
+
+table, td, tr {
+    border : 1px solid #3c0c0c;
+}
